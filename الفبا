@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scaner =new Scanner(System.in);
+        char c1=scaner.next().charAt(0);
+        char c2=scaner.next().charAt(0);
+         int x=(int)c1;
+         int y=(int)c2;
+         System.out.println(y-x);
+    }
+}
