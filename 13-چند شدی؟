@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+         Scanner in = new Scanner(System.in);
+        float a;
+        a = in.nextFloat();
+        if(a<10){
+        System.out.println("Fail");
+        }
+        else{
+            System.out.println("Pass");
+        }
+       
+        
+    }
+}
