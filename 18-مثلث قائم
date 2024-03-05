@@ -1,0 +1,28 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner Zaviye=new Scanner(System.in);
+        int Z1=Zaviye.nextInt();
+        int Z2=Zaviye.nextInt();
+        int Z3=Zaviye.nextInt();
+        if((Z1!=0)&&(Z2!=0)&&(Z3!=0)){
+        if((Z1==90)||(Z2==90)||(Z3==90)) {
+            int sum=Z3+Z2+Z1;
+            if(sum==180){
+                System.out.println("Bale");
+            }
+            else{
+                System.out.println("Na");
+            }
+        }
+        else{
+            System.out.println("Na");
+        }
+}
+ else{
+            System.out.println("Na");
+        }
+
+    }
+
+}
