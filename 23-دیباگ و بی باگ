@@ -1,0 +1,40 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        char a, b, c;
+        int x, y, z;
+        a = scanner.next().charAt(0);
+        b = scanner.next().charAt(0);
+        c = scanner.next().charAt(0);
+
+        x = scanner.nextInt();
+        y = scanner.nextInt();
+        z = scanner.nextInt();
+
+        if (a == b) {
+            if (x >= y && x >= z) {
+                System.out.println("Max : " + x);
+            }
+            else if (y >= x && y >= z) {
+                System.out.println("Max : " + y);
+            }
+            else if (z >= x && z >= y) {
+                System.out.println("Max : " + z);
+            }
+        } else if (a == c) {
+            if (x <= y && x <= z) {
+                System.out.println("Min : " + x);
+            }
+            else if (y <= x && y <= z) {
+                System.out.println("Min : " + y);
+            }
+            else if (z <= x && z <= y) {
+                System.out.println("Min : " + z);
+            }
+        } else {
+            System.out.println("None");
+        }
+    }
+}
