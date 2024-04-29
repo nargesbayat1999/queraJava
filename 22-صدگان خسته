@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // System.out.print("عدد اول: ");
+        String a = scanner.nextLine();
+        // System.out.print("عدد دوم: ");
+        String b = scanner.nextLine();
+
+        int target_1 = Integer.parseInt(new StringBuilder(a).reverse().toString());
+        int target_2 = Integer.parseInt(new StringBuilder(b).reverse().toString());
+
+        if (target_1 < target_2) {
+            System.out.println(a + " < " + b);
+        } else if (target_2 < target_1) {
+            System.out.println(b + " < " + a);
+        } else {
+            System.out.println(a + " = " + b);
+        }
+    }
+}
