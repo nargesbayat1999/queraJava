@@ -1,0 +1,56 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+        boolean t;
+        int x1 = scanner.nextInt();
+        int y2 = scanner.nextInt();
+        int z3 = scanner.nextInt();
+
+
+        int mx=0;
+        int my=0;
+        int mz=0;
+        if(z3<y2&&z3<x1){
+            mz++;
+        }
+        if(y2<z3&&y2<x1){
+            my++;
+        }
+        if(x1<y2&&x1<z3){
+            mx++;
+        }
+
+
+        while ((x1==y2)&&(y2!=z3)||(x1==z3)&&(y2!=z3)||(z3==y2)&&(y2!=x1)||(x1!=y2)&&(y2!=z3)&&(z3!=x1)){
+           int x = scanner.nextInt();
+           int y = scanner.nextInt();
+            int z = scanner.nextInt();
+
+            if(z<y&&z<x){
+                mz=mz+1;
+            }
+         if(y<z&&z<y){
+                my=my+1;
+            }
+             if(x<y&&x<z){
+                mx=mx+1;
+            }
+
+
+            if (x==y&&y==z&&z==x)
+                break;
+
+        }
+        if((my<mx)&&(mz<mx)){
+            System.out.println("Eyval Bijan!");
+        }
+        else {
+
+            System.out.println("Ey baba! Eshkal nadare.");
+        }
+    }
+
+
+}
