@@ -5,9 +5,9 @@
 </p>
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>ردیف</th>
+    <th>صورت سوال</th> 
+    <th>جواب</th>
   </tr>
   <tr>
     <td>Jill</td>
@@ -15,8 +15,8 @@
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
+    <td>1</td>
+    <td dir=""></td> 
     <td>94</td>
   </tr>
 </table>
