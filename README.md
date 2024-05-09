@@ -10,11 +10,6 @@
     <th>جواب</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
     <td>1</td>
     <td dir=""></td> 
     <td>94</td>
