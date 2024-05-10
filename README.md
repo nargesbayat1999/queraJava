@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td>1</td>
-    <td dir=""></td> 
-    <td></td>
+    <td dir=""><p dir="auto">برنامه‌ای بنویسید که عبارت <code dir="ltr">Hello Quera college!</code> ‌را در خروجی نمایش دهد.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/commit/478ba9ab1e697d3ba4fb0cfc5b217a69fb161b9a">جواب</a> </td>
   </tr>
    <tr>
     <td>2</td>
