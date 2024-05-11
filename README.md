@@ -125,24 +125,22 @@ b</code></pre></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نم
 <li>۲ فیل نیاز داریم و ۲ فیل داریم پس نیازی نیست هیچ فیلی اضافه کنیم.</li>
 <li>۲ اسب نیاز داریم و ۱ اسب داریم پس باید ۱ اسب‌ اضافه کنیم.</li>
 <li>۸ سرباز نیاز داریم و ۸ سرباز داریم پس نیازی نیست هیچ سربازی اضافه کنیم.</li>
-</ul>
-
-        
+</ul>   
  
    </td> 
     <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/8-%D8%B4%D8%B7%D8%B1%D9%86%D8%AC%20%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C">جواب</a></td>
   </tr>
    <tr>
     <td>9</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+     <td dir="">یکان</td>
+    <td dir=""><p dir="auto">برنامه‌ای بنویسید که با دریافت یک عدد طبیعی از ورودی، یکان آن را در خروجی چاپ کند.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/%DB%8C%D9%8E%DA%A9%D8%A7%D9%86-9">جواب</a></td>
   </tr>
    <tr>
     <td>10</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+     <td dir="">زمان سنج</td>
+    <td dir=""><p dir="auto">برنامه‌ای بنویسید که تعداد ثانیه‌هایی که از آغاز روز گذشته است را از ورودی دریافت کرده و زمان را به‌صورت <code dir="ltr">hour : minute : second</code> نمایش دهد.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/18-%D9%85%D8%AB%D9%84%D8%AB%20%D9%82%D8%A7%D8%A6%D9%85">جواب</a></td>
   </tr>
    <tr>
     <td>11</td>
