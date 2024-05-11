@@ -100,7 +100,36 @@ b</code></pre></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نم
    <tr>
     <td>8</td>
      <td dir="">شطرنج حرفه ای</td>
-    <td dir=""><p dir="auto">بهروز یک زمین شطرنج و مهره‌های آن را از بزرگان شطرنج قرض گرفت تا به ورزش بپردازد. اما متوجه شد که تعداد مهره‌های شطرنجی که به او داده‌اند درست نیست.</p></td> 
+    <td dir=""><div class="description-html" style="margin-top: 10px;"><p dir="auto">بهروز یک زمین شطرنج و مهره‌های آن را از بزرگان شطرنج قرض گرفت تا به ورزش بپردازد. اما متوجه شد که تعداد مهره‌های شطرنجی که به او داده‌اند درست نیست.</p>
+<p dir="auto" data-sider-select-id="ca675517-344a-453e-bdd2-dc4c82b9f0c0">می‌دانیم که یک مجموعه مهره‌های شطرنج باید شامل:</p>
+<ul dir="auto">
+<li>یک شاه</li>
+<li>یک وزیر</li>
+<li>دو رخ</li>
+<li>دو فیل</li>
+<li>دو اسب</li>
+<li>هشت سرباز</li>
+</ul>
+<p dir="auto">باشد. اختلاف تعداد مهره‌های شطرنج‌ زمین با تعداد استاندارد را به بهروز نمایش دهید.</p>
+<h1 dir="auto" id="ورودی">ورودی<a class="anchorLink" href="#ورودی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">در تنها سطر ورودی ۶ عدد آمده است که به ترتیب برابر تعداد شاه‌ها، وزیرها، رخ‌ها، فیل‌ها، اسب‌ها و سرباز‌های مهره‌های بهروز است.</p>
+<h1 dir="auto" id="خروجی">خروجی<a class="anchorLink" href="#خروجی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">تنها سطر خروجی باید شامل ۶ عدد باشد که برابر تعداد مهره‌هایی از انواع گفته‌شده است که بهروز باید <strong>به همان ترتیب ورودی</strong> تهیه یا حذف کند. اگر بهروز باید <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> تا از مهره‌ای تهیه کند باید عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> در جایگاه مربوط به آن مهره بیاید و اگر باید <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> تا از مهره‌ها را حذف کند، باید عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">-x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.58333em;"></span><span class="strut bottom" style="height: 0.66666em; vertical-align: -0.08333em;"></span><span class="base"><span class="mord">−</span><span class="mord mathit">x</span></span></span></span></span> در این جایگاه بیاید.</p>
+<h1 dir="auto" id="مثال">مثال<a class="anchorLink" href="#مثال" style="visibility: hidden;">🔗</a></h1>
+<h2 dir="auto" id="ورودی-نمونه-۱">ورودی نمونه ۱<a class="anchorLink" href="#ورودی-نمونه-۱" style="visibility: hidden;">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">1 2 2 2 1 8</code></pre><div class="toolbar"><div class="toolbar-item"><span>Plain text</span></div><div class="toolbar-item"><button class="copy-to-clipboard-button" type="button" data-copy-state="copy"><span>Copy</span></button></div><div class="toolbar-item"><button style="cursor: pointer;">Move To Editor</button></div></div></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نمونه ۱<a class="anchorLink" href="#خروجی-نمونه-۱" style="visibility: hidden;">🔗</a></h2>
+
+<li>۱ شاه نیاز داریم و ۱ شاه داریم پس نیازی نیست هیچ شاهی اضافه کنیم.</li>
+<li>۱ وزیر نیاز داریم و ۲ وزیر داریم پس باید یکی از وزیرها را حذف کنیم.</li>
+<li>۲ رخ نیاز داریم و ۲ رخ داریم پس نیازی نیست هیچ رخی اضافه کنیم.</li>
+<li>۲ فیل نیاز داریم و ۲ فیل داریم پس نیازی نیست هیچ فیلی اضافه کنیم.</li>
+<li>۲ اسب نیاز داریم و ۱ اسب داریم پس باید ۱ اسب‌ اضافه کنیم.</li>
+<li>۸ سرباز نیاز داریم و ۸ سرباز داریم پس نیازی نیست هیچ سربازی اضافه کنیم.</li>
+</ul>
+
+        
+        </div></div>
+   </td> 
     <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
