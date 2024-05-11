@@ -140,7 +140,7 @@ b</code></pre></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نم
     <td>10</td>
      <td dir="">زمان سنج</td>
     <td dir=""><p dir="auto">برنامه‌ای بنویسید که تعداد ثانیه‌هایی که از آغاز روز گذشته است را از ورودی دریافت کرده و زمان را به‌صورت <code dir="ltr">hour : minute : second</code> نمایش دهد.</p></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/18-%D9%85%D8%AB%D9%84%D8%AB%20%D9%82%D8%A7%D8%A6%D9%85">جواب</a></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/10-%D8%B2%D9%85%D8%A7%D9%86%20%D8%B3%D9%86%D8%AC">جواب</a></td>
   </tr>
    <tr>
     <td>11</td>
