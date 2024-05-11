@@ -44,7 +44,7 @@
     <td dir=""><div class="description-html" style="margin-top: 10px;"><p dir="auto">به شما ابتدا عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">a</span></span></span></span></span> و سپس عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi></mrow><annotation encoding="application/x-tex">b</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.69444em;"></span><span class="strut bottom" style="height: 0.69444em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">b</span></span></span></span></span> داده می‌شود و می‌خواهید این دو عدد را برعکس چاپ کنید یعنی اول عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi></mrow><annotation encoding="application/x-tex">b</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.69444em;"></span><span class="strut bottom" style="height: 0.69444em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">b</span></span></span></span></span> و سپس عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">a</span></span></span></span></span> را چاپ کنید.</p>
 <h1 dir="auto" id="ورودی">ورودی<a class="anchorLink" href="#ورودی" style="visibility: hidden;">🔗</a></h1>
 <p dir="auto">در اولین خط ورودی عدد صحیح <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">a</span></span></span></span></span> و در دومین خط ورودی عدد صحیح <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi></mrow><annotation encoding="application/x-tex">b</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.69444em;"></span><span class="strut bottom" style="height: 0.69444em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">b</span></span></span></span></span> به شما داده می‌شود.</p>
-<p dir="auto"><span><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>0</mn><mo>≤</mo><mi>a</mi><mo separator="true">,</mo><mi>b</mi><mo>≤</mo><mn>1</mn><mn>0</mn><mn>0</mn></mrow><annotation encoding="application/x-tex"> 0 \le a,b \le 100</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.69444em;"></span><span class="strut bottom" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="base"><span class="mord">0</span><span class="mord rule" style="margin-right: 0.277778em;"></span><span class="mrel">≤</span><span class="mord rule" style="margin-right: 0.277778em;"></span><span class="mord mathit">a</span><span class="mpunct">,</span><span class="mord rule" style="margin-right: 0.166667em;"></span><span class="mord mathit">b</span><span class="mord rule" style="margin-right: 0.277778em;"></span><span class="mrel">≤</span><span class="mord rule" style="margin-right: 0.277778em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span></span></span></span></p>
+
 <p dir="auto"><strong>توجه کنید شرط‌های گفته شده در بخش ورودی تنها برای اطلاع شما از نوع ورودی دادن به برنامه شما در تست‌های مختلف است و نیازی نیست این شرط‌ها را در برنامه خود بررسی کنید. در واقع تضمین می‌کنیم در تست‌هایی که در این سوال به برنامه شما داده می‌شود این شرط‌ها برقرار است.</strong></p>
 <p dir="auto"><strong>یعنی در تمام تست‌های این سوال،  <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">a</span></span></span></span></span> و <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi></mrow><annotation encoding="application/x-tex">b</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.69444em;"></span><span class="strut bottom" style="height: 0.69444em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">b</span></span></span></span></span> صحیح و نامنفی و کمتر یا مساوی ۱۰۰ هستند.</strong></p>
 <h1 dir="auto" id="خروجی">خروجی<a class="anchorLink" href="#خروجی" style="visibility: hidden;">🔗</a></h1>
@@ -61,183 +61,203 @@
   </tr>
    <tr>
     <td>5</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td></td>
+     <td dir="">صحیح ساز</td>
+    <td dir=""><div class="description-html" style="margin-top: 10px;"><p dir="auto">برنامه‌ای بنویسید که یک عدد اعشاری از ورودی دریافت کرده و مقدار صحیح آن را چاپ کند. (مقدار اعشار را از عدد حذف کند.)</p>
+<h1 dir="auto" id="ورودی">ورودی<a class="anchorLink" href="#ورودی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">در تنها سطر ورودی یک عدد اعشاری داده شده است.</p>
+<h1 dir="auto" id="خروجی">خروجی<a class="anchorLink" href="#خروجی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">در خروجی مقدار صحیح ورودی چاپ می‌شود.</p>
+<h1 dir="auto" id="مثال">مثال<a class="anchorLink" href="#مثال" style="visibility: hidden;">🔗</a></h1>
+<h2 dir="auto" id="ورودی-نمونه-۱">ورودی نمونه ۱<a class="anchorLink" href="#ورودی-نمونه-۱" style="visibility: hidden;">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">3.6</code></pre><div class="toolbar"></div></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نمونه ۱<a class="anchorLink" href="#خروجی-نمونه-۱">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">3</code></pre></div></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/5-%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%B3%D8%A7%D8%B2">جواب</a></td>
   </tr>
    <tr>
     <td>6</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td></td>
+     <td dir="">الفبا</td>
+    <td dir=""><div class="description-html" style="margin-top: 10px;"><p dir="auto">بهروز به تازگی به کلاس زبان انگلیسی رفته است و با تکلیف سختی که معلم‌شان داده، مواجه شده است. آقای معلم از آن‌ها خواسته فاصله‌ی بین دو حرف از انگلیسی را محاسبه کنند اما بهروز که بسیار مبتدی است نمی‌تواند این تمرین را حل کند و از شما کمک می‌خواهد. در ورودی به شما دو کاراکتر <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> و <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="base"><span class="mord mathit" style="margin-right: 0.03588em;">y</span></span></span></span></span> داده می‌شود که از حروف کوچک انگلیسی هستند.<br>شما در خروجی باید چاپ کنید که <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="base"><span class="mord mathit" style="margin-right: 0.03588em;">y</span></span></span></span></span> چندمین حرف بعد از <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> است. مثلا کاراکتر <code dir="ltr">h</code> دومین حرف بعد از <code dir="ltr">f</code> است.</p>
+<p dir="auto"><strong>همچنین تضمین می‌شود که کاراکتر <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="base"><span class="mord mathit" style="margin-right: 0.03588em;">y</span></span></span></span></span> در ترتیب حروف الفبا بعد از <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> آمده است.</strong></p>
+<h1 dir="auto" id="ورودی">ورودی<a class="anchorLink" href="#ورودی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">در اولین خط ورودی کاراکتر اول <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> و در خط دوم کاراکتر دوم <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="base"><span class="mord mathit" style="margin-right: 0.03588em;">y</span></span></span></span></span> به شما داده می‌شود.</p>
+<h1 dir="auto" id="خروجی">خروجی<a class="anchorLink" href="#خروجی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">در تنها خط خروجی باید چاپ کنید که <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="base"><span class="mord mathit" style="margin-right: 0.03588em;">y</span></span></span></span></span> چندمین حرف بعد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> است.</p>
+<h1 dir="auto" id="مثال">مثال<a class="anchorLink" href="#مثال" style="visibility: hidden;">🔗</a></h1>
+<h2 dir="auto" id="ورودی-نمونه-۱">ورودی نمونه ۱<a class="anchorLink" href="#ورودی-نمونه-۱">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">a
+b</code></pre></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نمونه ۱<a class="anchorLink" href="#خروجی-نمونه-۱">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">1</code>
+            </div>
+        </div></div></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>7</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td></td>
+     <td dir="">کاشی کاری کف استخر</td>
+    <td dir=""><p dir="auto">کفِ استخرِ دانشگاه، مستطیلی به طول و عرض <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">n</span></span></span></span></span> و <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">m</span></span></span></span></span> <strong>متر</strong> است. به درخواست بهروز، دانشگاه قول داده است کاشی‌های تازه‌ای تهیه و جایگزین کند. کاشی‌ها به شکل مستطیل‌های ۴ در ۵ <strong>سانتی‌متر</strong> هستند. به بهروز کمک کنید که محاسبه کند دانشگاه حداقل چه تعداد کاشی باید تهیه کند.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/7-%DA%A9%D8%A7%D8%B4%DB%8C%E2%80%8C%DA%A9%D8%A7%D8%B1%DB%8C%D9%90%20%DA%A9%D9%81%D9%90%20%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1">جواب</a></td>
   </tr>
    <tr>
     <td>8</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td></td>
+     <td dir="">شطرنج حرفه ای</td>
+    <td dir=""><p dir="auto">بهروز یک زمین شطرنج و مهره‌های آن را از بزرگان شطرنج قرض گرفت تا به ورزش بپردازد. اما متوجه شد که تعداد مهره‌های شطرنجی که به او داده‌اند درست نیست.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>9</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>10</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>11</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>12</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>13</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>14</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>15</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>16</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>17</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>18</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>19</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>20</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>21</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>22</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>23</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>24</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>25</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>26</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>27</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>28</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>29</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>30</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>31</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>32</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>33</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
    <tr>
     <td>34</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
   </tr>
   
 </table>
