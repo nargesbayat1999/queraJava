@@ -117,7 +117,7 @@ b</code></pre></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نم
 <p dir="auto">تنها سطر خروجی باید شامل ۶ عدد باشد که برابر تعداد مهره‌هایی از انواع گفته‌شده است که بهروز باید <strong>به همان ترتیب ورودی</strong> تهیه یا حذف کند. اگر بهروز باید <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> تا از مهره‌ای تهیه کند باید عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> در جایگاه مربوط به آن مهره بیاید و اگر باید <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43056em;"></span><span class="strut bottom" style="height: 0.43056em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit">x</span></span></span></span></span> تا از مهره‌ها را حذف کند، باید عدد <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">-x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.58333em;"></span><span class="strut bottom" style="height: 0.66666em; vertical-align: -0.08333em;"></span><span class="base"><span class="mord">−</span><span class="mord mathit">x</span></span></span></span></span> در این جایگاه بیاید.</p>
 <h1 dir="auto" id="مثال">مثال<a class="anchorLink" href="#مثال" style="visibility: hidden;">🔗</a></h1>
 <h2 dir="auto" id="ورودی-نمونه-۱">ورودی نمونه ۱<a class="anchorLink" href="#ورودی-نمونه-۱" style="visibility: hidden;">🔗</a></h2>
-<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">1 2 2 2 1 8</code></pre><div class="toolbar"><div class="toolbar-item"><span>Plain text</span></div><div class="toolbar-item"><button class="copy-to-clipboard-button" type="button" data-copy-state="copy"><span>Copy</span></button></div><div class="toolbar-item"><button style="cursor: pointer;">Move To Editor</button></div></div></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نمونه ۱<a class="anchorLink" href="#خروجی-نمونه-۱" style="visibility: hidden;">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">1 2 2 2 1 8</code></pre><div class="toolbar"></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نمونه ۱<a class="anchorLink" href="#خروجی-نمونه-۱" style="visibility: hidden;">🔗</a></h2>
 
 <li>۱ شاه نیاز داریم و ۱ شاه داریم پس نیازی نیست هیچ شاهی اضافه کنیم.</li>
 <li>۱ وزیر نیاز داریم و ۲ وزیر داریم پس باید یکی از وزیرها را حذف کنیم.</li>
@@ -128,9 +128,9 @@ b</code></pre></div><h2 dir="auto" id="خروجی-نمونه-۱">خروجی نم
 </ul>
 
         
-        </div></div>
+ 
    </td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/8-%D8%B4%D8%B7%D8%B1%D9%86%D8%AC%20%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C">جواب</a></td>
   </tr>
    <tr>
     <td>9</td>
