@@ -24,9 +24,19 @@
   </tr>
    <tr>
     <td>3</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td></td>
+     <td dir=""><P>مثلث تو پر</P></td>
+    <td dir=""><p><div class="description-html" style="margin-top: 10px;"><p dir="auto">برنامه‌ای بنویسید که یک مثلث توپُر با قاعده ۹ را با <code dir="ltr">*</code> چاپ کند.</p>
+<h1 dir="auto" id="ورودی">ورودی<a class="anchorLink" href="#ورودی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">نداریم!</p>
+<h1 dir="auto" id="خروجی">خروجی<a class="anchorLink" href="#خروجی" style="visibility: hidden;">🔗</a></h1>
+<p dir="auto">خروجی برنامه‌ی شما باید شامل ۵ خط باشد که با استفاده از <code dir="ltr">*</code> و <code dir="ltr"></code> به شکل زیر ساخته می‌شود.</p>
+<h2 dir="auto" id="ظاهر-خروجی">ظاهر خروجی<a class="anchorLink" href="#ظاهر-خروجی" style="visibility: hidden;">🔗</a></h2>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><sider-code-explain id="sider-code-explain" data-gpts-theme="light"></sider-code-explain><code data-filename="undefined" class="language-none">    *
+   ***
+  *****
+ *******
+*********</code></pre></div></p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/3-%D9%85%D8%AB%D9%84%D8%AB%20%D8%AA%D9%88%D9%BE%D9%8F%D8%B1">جواب</a></td>
   </tr>
    <tr>
     <td>4</td>
