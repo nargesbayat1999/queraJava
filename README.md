@@ -117,123 +117,123 @@
   </tr>
    <tr>
     <td>15</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+     <td dir=""> لامپ اضافی خاموش</td>
+    <td dir=""><p dir="auto">بهروز در رویای خود می‌بیند که شهردار شده است. او می‌خواهد به عنون شهردار تصمیمی بگیرد که سرانه‌ مصرف برق را مدیریت کند و به قانونی فکر کرده است که هر خانه به تعداد ارقام متراژ خانه می‌توند لامپ در خانه نصب کند. به او کمک کنید که بر اساس ارقام متراژ خانه تعداد لامپ آن را مشخص کند.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/15-%D9%84%D8%A7%D9%85%D9%BE%20%D8%A7%D8%B6%D8%A7%D9%81%DB%8C%20%D8%AE%D8%A7%D9%85%D9%88%D8%B4!">جواب</a></td>
   </tr>
    <tr>
     <td>16</td>
-     <td dir=""></td>
-    <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+     <td dir="">بیشنیه ۴</td>
+    <td dir=""><p dir="auto" data-sider-select-id="e715fb19-3bc1-45ec-9f01-84e7bf9e4d63">برنامه‌ای بنویسید که ۴ عدد از ورودی بگیرد و مقدار بیشینه این اعداد را چاپ کند.</p></td> 
+    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/16-%D8%A8%DB%8C%D8%B4%D9%86%DB%8C%D9%87%20%DB%B4">جواب</a></td>
   </tr>
    <tr>
     <td>17</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>18</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>19</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>20</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>21</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>22</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>23</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>24</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>25</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>26</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>27</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>28</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>29</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>30</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>31</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>32</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>33</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
    <tr>
     <td>34</td>
      <td dir=""></td>
     <td dir=""></td> 
-    <td><a href="https://github.com/nargesbayat1999/queraJava/blob/main/6-%D8%A7%D9%84%D9%81%D8%A8%D8%A7">جواب</a></td>
+    <td><a href="">جواب</a></td>
   </tr>
   
 </table>
